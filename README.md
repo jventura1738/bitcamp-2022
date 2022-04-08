@@ -1,2 +1,5 @@
-# bitcamp-2022
-University of Maryland, College Park Workshops/Projects
+# bitcamp-2022 UMD
+
+Justin Ventura (Quantum Track)
+
+## UC:
