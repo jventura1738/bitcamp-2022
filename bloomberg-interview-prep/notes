@@ -1,0 +1,83 @@
+Technical Interview Process
+
+- Resume/Background
+- Project experience
+- Technical questions
+- Questions for the interviewer
+
+
+--- What interviewers are looking for ---
+
+- Technical Proficiency
+- Clarity of tought
+- Professionalism
+- Preparation
+- Ease and precision of communication
+- Particpation in a technical conversation
+- Motivation & interest
+- Culture fit
+
+--- What interviews include ---
+
+- Hands on programming problem
+- Questions on DSA
+- Contructing a solution to a problem
+- Talking about past projects
+
+--- Before the interview ---
+
+- DO RESEARCH ON THE COMPANY
+- Learn the interview attire
+- Mention if you have outstanding offers (deadlines)
+- Go over DSA notes :(
+
+--- RESUME ---
+
+- Anything on the resume is fair game
+- Refresh memory on old projects and courses
+- Projects: Problem, Idea, Implementation, Result, Looking Back
+- What were some challenges on the project?
+- What would you have done differently now that you have more experience?
+
+--- Ask questions ---
+
+- Clarify any assumptions
+- Ask questions until fully understand the solution
+- Insightful questions show critical thinking
+
+Potential questions:
+- Consider potential edge cases
+- How am I receiving this data
+- How should I output the result
+- Are there any time/space complexity constraints
+
+--- TECHNICAL ---
+
+Datastructures:
+- Possible implemetations
+- Runtimes for operations
+- Pros and cons
+
+Algorithms:
+- Searching, sorting, recursion
+- Focus on strenghts and weaknesses
+- be able to make comparisons
+
+Common Techniques:
+- Starting from back of the array
+- Using two pointers
+- Use auxiliary data structures
+- Kadane's algorithm
+- Start with brute force them optimize
+
+Keep in mind:
+- Reflect and vocalize your process and approach
+- Goals is to show how you reach the solution
+
+--- End of interviews ---
+
+Q&A Session:
+- Ask about tech stack
+- Ask what they work on
+- 
+
