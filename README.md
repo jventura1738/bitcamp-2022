@@ -18,7 +18,7 @@ Justin Ventura (Quantum Track)
  - **Quantum Computing Workshop III [@Heritage Hall 2:00PM]**
  - Digital Logic via Minecraft [@Treehouse 3:00PM]
  - NodeJS & Express API Workshop [@Heritage Hall 4:00PM]
- - **Quantum Computing Workshop IV [@Heritage Hall 6:00PM]
+ - **Quantum Computing Workshop IV [@Heritage Hall 6:00PM]**
  - History of Computer Science [@Observatory 7:30PM]
  - Python FastAPI Workshop [@Treehouse 9:00PM]
 4. *SUNDAY* (?)
